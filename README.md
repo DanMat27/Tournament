@@ -15,32 +15,10 @@ del torneo. El programa generará aleatoriamente los enfrentamientos del torneo 
 ### Visualización del torneo:
 
 Torneo de 4 personas:
-'p1                                                                  p3  
- |                                                                  |  
- -----------------------                       ----------------------  
-                       |                       |  
-                       -------------------------  
-                       |                       |  
- -----------------------                       ----------------------  
- |                                                                  |  
-p2                                                                  p4  '
+[img1]: /torneo_4.jpg "Torneo de 4 personas"
 
 Torneo de 8 personas:
-p8                                                                  p6
- |                                                                  |
- -----------------------                       ----------------------
-                       |                       |
-p3                     -------           -------                    p7
- |                     |     |           |     |                    |
- -----------------------     |           |     ----------------------
-                             -------------
- -----------------------     |           |     ----------------------
- |                     |     |           |     |                    |
-p2                     -------           -------                    p4
-                       |                       |
- -----------------------                       ----------------------
- |                                                                  |
-p1                                                                  p5
+[img1]: /torneo_8.jpg "Torneo de 8 personas"
 
 (La distribución de los participantes es un ejemplo puntual)
 
