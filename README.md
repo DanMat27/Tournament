@@ -15,10 +15,10 @@ del torneo. El programa generará aleatoriamente los enfrentamientos del torneo 
 ### Visualización del torneo:
 
 Torneo de 4 personas:
-[img1]: /torneo_4.jpg "Torneo de 4 personas"
+![Texto alternativo](/torneo_4.jpg)
 
 Torneo de 8 personas:
-[img1]: /torneo_8.jpg "Torneo de 8 personas"
+![Texto alternativo](/torneo_8.jpg)
 
 (La distribución de los participantes es un ejemplo puntual)
 
