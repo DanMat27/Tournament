@@ -1,7 +1,7 @@
 ###############################################
 # Author: DanMat27
 # Date: 29/05/2020
-# File: distancia_euclidea_2.py
+# File: tournament.py
 # Description:
 #  Genera una tabla de torneo de participantes
 #  indicados por teclado de forma aleatoria.
