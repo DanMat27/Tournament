@@ -2,7 +2,7 @@
 
 -----------
 
-###Descripción:
+### Descripción:
 El usuario debe introducir el número de participantes del torneo a la hora de ejecutar el programa de 
 la siguiente manera: 
 
@@ -14,7 +14,9 @@ del torneo. El programa generará aleatoriamente los enfrentamientos del torneo 
 
 -----------
 
-Visualización del torneo de 4 personas:
+### Visualización del torneo:
+
+Torneo de 4 personas:
 p1                                                                  p3
  |                                                                  |
  -----------------------                       ----------------------
@@ -25,7 +27,7 @@ p1                                                                  p3
  |                                                                  |
 p2                                                                  p4
 
-Visualización del torneo de 8 personas:
+Torneo de 8 personas:
 p8                                                                  p6
  |                                                                  |
  -----------------------                       ----------------------
